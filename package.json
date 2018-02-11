@@ -1,0 +1,24 @@
+{
+  "name": "kumojs",
+  "version": "1.0.0",
+  "description": "KumoJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/y3k00000/KumoJS.git"
+  },
+  "keywords": [
+    "javascript",
+    "clawer",
+    "kumo"
+  ],
+  "author": "y3k00000@gmail.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/y3k00000/KumoJS/issues"
+  },
+  "homepage": "https://github.com/y3k00000/KumoJS#readme"
+}
