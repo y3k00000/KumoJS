@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/y3k00000/KumoJS/issues"
   },
-  "homepage": "https://github.com/y3k00000/KumoJS#readme"
+  "homepage": "https://github.com/y3k00000/KumoJS#readme",
+  "dependencies": {
+    "request":"^2.88.0"
+  }
 }
